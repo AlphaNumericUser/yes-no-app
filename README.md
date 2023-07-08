@@ -1,16 +1,30 @@
-# yes_no_app
+# Yes No App With Flutter
 
-A new Flutter project.
+The purpose of creating this app was to work with a REST API and structure the UI of a conventional chat. To engage in a conversation in the chat, please end your message with a question mark.
+<p>
+    <img src="https://i.imgur.com/AwbQt1D.png" width="200"/ hspace="5"> 
+    <img src="https://i.imgur.com/GZouUfj.png" width="200"/ hspace="5"> 
+    <img src="https://i.imgur.com/Vh8CCgn.png" width="200"/ hspace="5"> 
+</p>
 
-## Getting Started
+## Installation
 
-This project is a starting point for a Flutter application.
+To use this App, make sure you have Flutter installed on your machine. If you haven't installed Flutter yet, follow the official Flutter installation guide [here](https://flutter.dev/docs/get-started/install).
 
-A few resources to get you started if this is your first Flutter project:
+Clone this repository to your local machine:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+```bash
+git clone https://github.com/AlphaNumericUser/yes-no-app.git
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```
+
+## Usage
+You can open the project in your preferred Flutter development environment (e.g., Android Studio, Visual Studio Code) and run it on a simulator or physical device.
+
+Feel free to experiment, modify the code, and integrate these widgets into your own projects
+
+## Contributing
+Contributions are welcome! If you have any improvements, bug fixes, or new examples to add, please follow the guidelines outlined in CONTRIBUTING.md.
+
+## License
+This project is licensed under the MIT License.
