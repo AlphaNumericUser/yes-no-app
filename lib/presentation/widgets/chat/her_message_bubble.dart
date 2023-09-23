@@ -20,7 +20,7 @@ class HerMessageBubble extends StatelessWidget {
             padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 10),
             child: Text(
               message.text,
-              style: const TextStyle(color: Colors.white, fontSize: 20),
+              style: const TextStyle(color: Colors.white, fontSize: 18),
             ),
           ),
         ),
